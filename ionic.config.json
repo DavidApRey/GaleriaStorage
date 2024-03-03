@@ -1,0 +1,7 @@
+{
+  "name": "GaleriaStorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
